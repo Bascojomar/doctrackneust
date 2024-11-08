@@ -1,0 +1,40 @@
+{
+    "statuses": [
+      {
+        "id": 1,
+        "status": "Created",
+        "description": "The task or project has been initiated but no further action has been taken yet."
+      },
+      {
+        "id": 2,
+        "status": "On Going",
+        "description": "The task or project is currently in progress."
+      },
+      {
+        "id": 3,
+        "status": "Released",
+        "description": "The task or project has been completed and delivered or made available to the intended audience or recipients."
+      },
+      {
+        "id": 4,
+        "status": "Received",
+        "description": "The task or project output has been received or acknowledged by the intended audience or recipients."
+      },
+      {
+        "id": 5,
+        "status": "Signed",
+        "description": "The task or project output has been signed or approved by the intended audience or recipients."
+      },
+      {
+        "id": 6,
+        "status": "Rejected",
+        "description": "The task or project has been reviewed and rejected or not approved."
+      },
+      {
+        "id": 7,
+        "status": "Done",
+        "description": "The task or project has been fully completed and all associated activities have been finalized."
+      }
+    ]
+  }
+  
